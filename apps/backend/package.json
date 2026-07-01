@@ -1,0 +1,21 @@
+{
+  "name": "pod-tracker-api",
+  "version": "0.1.0",
+  "description": "Serverless vercel backend for Pod Tracker.",
+  "license": "ISC",
+  "author": "Alex Schmidt",
+  "type": "module",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-auth": "^1.6.22"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "eslint": "^9.39.1",
+    "typescript": "5.9.2"
+  }
+}
